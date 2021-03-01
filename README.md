@@ -21,7 +21,7 @@
 
 Criar componentes no React Native é uma tarefa diária!
 
-Nesse vídeo vamos utilizar o Styled-Components para criar nossos componentes utilizando props de maneira dinâmica, reutilizáveis e centralizadas para facilitar o desenvolvimento e manutenção do ciclo de vida da sua aplicação.
+Nesse vídeo vamos utilizar o Styled-Components para criar nossos componentes utilizando props para construir estilos dinâmicos, reutilizáveis e centralizados para facilitar o desenvolvimento e manutenção do ciclo de vida da sua aplicação.
 
 ---
 ## 👨‍💻️ Tecnologias Utilizadas
