@@ -1,12 +1,8 @@
 import 'styled-components';
-
-import { colors } from './colors';
-
-import { fonts } from './fonts';
+import { stylertTheme } from '.';
 
 declare module 'styled-components' {
-  export interface DefaultTheme {
-    colors: typeof colors;
-    fonts: typeof fonts;
-  }
+  type MyTheme = typeof stylertTheme;
+
+  export interface DefaultTheme extends MyTheme {}
 }
